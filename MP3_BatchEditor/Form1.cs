@@ -19,7 +19,7 @@ namespace MP3_BatchEditor
 
         private void splitContainer2_Panel2_Paint(object sender, PaintEventArgs e)
         {
-
+// Test
         }
     }
 }
