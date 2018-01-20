@@ -16,5 +16,10 @@ namespace MP3_BatchEditor
         {
             InitializeComponent();
         }
+
+        private void splitContainer2_Panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
